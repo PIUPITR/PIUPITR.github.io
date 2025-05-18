@@ -2,17 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>danielsite</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/github.io/</link>
     <description>Recent content on danielsite</description>
+    <image>
+      <title>danielsite</title>
+      <url>http://localhost:1313/github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- 0.147.3</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 18 May 2025 14:29:48 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mainpage</title>
-      <link>http://localhost:1313/posts/mainpage/</link>
+      <link>http://localhost:1313/github.io/posts/mainpage/</link>
       <pubDate>Sun, 18 May 2025 14:29:48 +0300</pubDate>
-      <guid>http://localhost:1313/posts/mainpage/</guid>
+      <guid>http://localhost:1313/github.io/posts/mainpage/</guid>
       <description>&lt;p&gt;Test text&lt;/p&gt;</description>
     </item>
   </channel>
