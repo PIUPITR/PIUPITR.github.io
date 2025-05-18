@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>danielsite</title>
-    <link>http://localhost:1313/</link>
+    <link>https://piupitr.github.io/</link>
     <description>Recent content on danielsite</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 18 May 2025 14:29:48 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://piupitr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mainpage</title>
-      <link>http://localhost:1313/posts/mainpage/</link>
+      <link>https://piupitr.github.io/posts/mainpage/</link>
       <pubDate>Sun, 18 May 2025 14:29:48 +0300</pubDate>
-      <guid>http://localhost:1313/posts/mainpage/</guid>
+      <guid>https://piupitr.github.io/posts/mainpage/</guid>
       <description>&lt;p&gt;Test text&lt;/p&gt;</description>
     </item>
   </channel>
