@@ -15,5 +15,12 @@
       <guid>https://piupitr.github.io/posts/mainpage/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://piupitr.github.io/world.png&#34; alt=&#34;World&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Code:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e6edf3;background-color:#0d1117;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#a5d6ff&#34;&gt;&amp;#34;hello world!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
+    <item>
+      <title>Projects</title>
+      <link>https://piupitr.github.io/projects/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://piupitr.github.io/projects/</guid>
+      <description>&lt;h1 id=&#34;projects&#34;&gt;&#xD;&#xA;  Projects&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#projects&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Welcome to the Projects page! Here you will find a list of interesting projects and brief descriptions.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Project Alpha&lt;/strong&gt;: A sample project description.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Project Beta&lt;/strong&gt;: Another example project.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Stay tuned for more updates!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
