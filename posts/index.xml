@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on danielsite</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://piupitr.github.io/posts/</link>
     <description>Recent content in Posts on danielsite</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 18 May 2025 14:29:48 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://piupitr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mainpage</title>
-      <link>http://localhost:1313/posts/mainpage/</link>
+      <link>https://piupitr.github.io/posts/mainpage/</link>
       <pubDate>Sun, 18 May 2025 14:29:48 +0300</pubDate>
-      <guid>http://localhost:1313/posts/mainpage/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/world.png&#34; alt=&#34;World&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Code:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e6edf3;background-color:#0d1117;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#a5d6ff&#34;&gt;&amp;#34;hello world!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <guid>https://piupitr.github.io/posts/mainpage/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://piupitr.github.io/world.png&#34; alt=&#34;World&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Code:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e6edf3;background-color:#0d1117;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#a5d6ff&#34;&gt;&amp;#34;hello world!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
